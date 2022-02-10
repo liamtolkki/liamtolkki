@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @liamtolkki
-- 👀 I’m interested in AI, GUI dev,
-- 🌱 I’m currently learning Computer Science (WSU)
-- 💞️ I’m looking to collaborate on ----
+- 👀 I’m interested in AI, GUI dev, Software dev
+- 🌱 Current major: Bachelor of Science in Computer Science (Wright State University)
 - 📫 How to reach me liamtolkki@gmail.com
 
 <!---
