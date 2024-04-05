@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liamtolkki
-- 👀 I’m interested in Software dev and Embedded Systems
+- 👀 I’m interested in Software development and Embedded Systems
 - 🌱 Current major: Bachelor of Science in Computer Science (Wright State University)
 - 📫 How to reach me liamtolkki@gmail.com
 
